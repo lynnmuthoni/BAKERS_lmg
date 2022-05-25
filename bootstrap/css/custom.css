@@ -1,0 +1,129 @@
+.index_body{
+    background-image: url("../../assets/images/l1.jpeg");
+}
+.index_div_two{
+    min-height: 25vh;
+}
+.index_div_one{
+    height: 70vh ;
+}
+.index_button{
+    border-radius: 20px;
+}
+.card-img-top{
+    height: 15vh;
+    width: 10%;
+}
+.services_body{
+    background-image: url("../../assets/images/h2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.h{
+    background-color: #ffd486;
+}
+.jumbotron{
+    background-color: #ffe492;
+}
+.service_button{
+    background-color: #ff14b7;
+    color: #e2e6ea;
+    border-collapse: collapse;
+    border-radius: 20px;
+    border-color: #ff14b7;
+    width: 20%;
+}
+.login_body{
+    background-image: url("../../assets/images/giraffe.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+.login_form{
+    width: 30%;
+    align-content: center;
+    margin-right: 35%;
+    margin-left: 35%;
+}
+.login_button{
+    color: #e2e6ea;
+    background-color: rgba(116, 33, 187, 0.58);
+    text-align: center;
+    height: 5vw;
+    width: 100%;
+    border-color: rgba(116, 33, 187, 0.58);
+
+}
+.signin_body{
+    background-color: black;
+}
+.sign_in_button{
+    width: 70%;
+    border-radius: 20px;
+}
+.main_div{
+    margin-top: 5vh;
+    margin-bottom: 5vh;
+}
+.division_left{
+    background-color: #44d291;
+    color: #e2e6ea;
+    width: 45%;
+    height: 90vh;
+    margin-left: 5%;
+}
+.s_h1{
+    color: #2e8f67;
+}
+.division_right{
+    background-color: #fffafe;
+    width: 50%;
+    height: 90vh;
+}
+.signin_form{
+    width: 70%;
+    margin-right: 15%;
+    margin-left: 15%;
+}
+.signup_button{
+    color: #e2e6ea;
+    background-color: #60ffbd;
+    border-radius: 20px;
+    border-color: #60ffbd;
+    width: 70%;
+}
+
+.social_div{
+    align-content: center;
+    align-items: center;
+}
+* Style all font awesome icons */
+.fa {
+    padding: 30px;
+    font-size: 40px;
+    width: 70px;
+    text-align: center;
+    text-decoration: none;
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+    opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+    background: #3B5998;
+    color: white;
+}
+/*google*/
+.fa-google{
+    background-color: #ff6b48;
+    color: #e2e6ea;
+}
+/* Twitter */
+.fa-twitter {
+    background: #55ACEE;
+    color: white;
+}
